@@ -32,3 +32,5 @@ O desenvolvimento deste projeto permitiu a consolidação de conceitos fundament
 2. **Controle de Fluxo:** Implementação de loops de repetição aninhados (`while True`) e interrupções condicionais (`break`, `sys.exit`).
 3. **Tratamento de Entradas:** Higienização de strings com `.lower()` para garantir a resiliência do menu contra variações de caixa (letras maiúsculas/minúsculas).
 4. **Lógica e Formatação:** Aplicação de expressões matemáticas para cálculo de proporções e formatação de casas decimais em *f-strings*.
+
+DD/MM/YYYY > 05/06/2026 15pm
